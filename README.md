@@ -5,5 +5,5 @@ Deploy Audiocraft Musicgen on Amazon SageMaker using SageMaker Endpoints for Asy
 
 | Model ID | Deploy Notebook | Inference Notebook |
 | -- | -- | -- |
-| musicgen-small | [Deploy]() | [Inference]() |
-| musicgen-large | [Deploy]() | [Inference]() |
+| musicgen-large | [Deploy](musicgen-large/deploy-musicgen-large.ipynb) | [Inference](musicgen-large/infer-async.ipynb) |
+| musicgen-small | [Deploy](musicgen-small/deploy-musicgen-small.ipynb) | [Inference](musicgen-small/infer-async.ipynb) |
