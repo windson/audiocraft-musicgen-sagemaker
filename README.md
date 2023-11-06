@@ -12,7 +12,7 @@ AudioCraft consists of three models: MusicGen, AudioGen, and EnCodec. This repo 
 
 
 ## References
-[Open sourcing AudioCraft: Generative AI for audio made simple and available to all](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/)
+- [Open sourcing AudioCraft: Generative AI for audio made simple and available to all](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/)
 - https://huggingface.co/facebook/musicgen-large
 - https://huggingface.co/docs/transformers/model_doc/musicgen#generation
 - https://github.com/facebookresearch/audiocraft/blob/main/README.md
