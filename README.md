@@ -11,4 +11,11 @@ AudioCraft consists of three models: MusicGen, AudioGen, and EnCodec. This repo 
 | facebook/musicgen-small | [Deploy](musicgen-small/deploy-musicgen-small.ipynb) | [Inference](musicgen-small/infer-async.ipynb) |
 
 
+## References
 [Open sourcing AudioCraft: Generative AI for audio made simple and available to all](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/)
+- https://huggingface.co/facebook/musicgen-large
+- https://huggingface.co/docs/transformers/model_doc/musicgen#generation
+- https://github.com/facebookresearch/audiocraft/blob/main/README.md
+- https://sagemaker.readthedocs.io/en/stable/frameworks/huggingface/sagemaker.huggingface.html#hugging-face-model
+- https://sagemaker.readthedocs.io/en/stable/api/inference/predictors.html#sagemaker.predictor.Predictor.predict
+- https://github.com/aws/amazon-sagemaker-examples/blob/main/async-inference/Transcription_on_SM_endpoint.ipynb
