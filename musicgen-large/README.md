@@ -1,7 +1,9 @@
 
 Inference Time estimates captured
 
-Note: These numbers are not benchmarks!
+## Asynchronous Inference Sequence flow for musicgen-large on Amazon SageMaker
+
+![image](https://github.com/windson/audiocraft-musicgen-sagemaker/assets/1826682/c0eb370d-be88-469c-968b-c31c01c77a41)
 
 ## ml.g5.2xlarge
 
@@ -15,3 +17,5 @@ Note: These numbers are not benchmarks!
 | default_config = { 'guidance_scale': 1, 'max_new_tokens': 256, 'do_sample': True } | 2 | 4min 22s | 5 |
 | default_config = { 'guidance_scale': 1, 'max_new_tokens': 512, 'do_sample': True } | 2 | 8min 40s | 10 |
 | default_config = { 'guidance_scale': 1, 'max_new_tokens': 1024, 'do_sample': True } | 2 | | 20 |
+
+Note: These numbers are not benchmarks!
